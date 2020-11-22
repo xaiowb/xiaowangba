@@ -1,0 +1,9 @@
+#include<studio.h>
+int main()
+{
+float a=2.3;
+float b=3.2;
+float c;
+c=a+b;
+printf("%f",c);
+}
